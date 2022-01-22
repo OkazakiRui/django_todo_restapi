@@ -1,5 +1,11 @@
 # django todoapi
 
+## server start
+
+```bash
+python manage.py runserver
+```
+
 ## route
 
 ### tasks
